@@ -1,5 +1,5 @@
-DartsMania
-==========
+ESpaceHolder
+============
 
 It is a Yii Framework (http://yiiframework.com) extension, so you'll need a running **Yii** install to use it. (you'll also need internet access!)
 
